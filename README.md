@@ -1,22 +1,24 @@
 ![Central Life Roleplay](https://image.prntscr.com/image/iUmWOXmLTLCRmeOgyUGFkw.png)
 
-# Central-Life-Roleplay
+# Central Life Roleplay
 Komunitas game yang merupakan basis dari San Andreas Multiplayer, di kembangkan untuk membentuk komunikasi baik dengan sesama anggota komunitas roleplay yang ada di Indonesia.
 
 # Tujuan nya apa sih?
 Kami sebagai pihak manajemen server berharap kontribusi teman-teman sekalian untuk membantu kami mengembangkan server ini agar lebih baik dan nyaman untuk bermain, dengan cara melaporkan suatu yang merugikan (BUG) atau memberikan saran untuk server. Kami berharap teman-teman dapat membantu, dan pihak manajemen akan berusaha sebaik mungkin untuk memperbaiki dan menerima saran dari teman teman sekalian.
 
 # Bagaimana cara saya untuk berkontribusi, saya kurang paham!
-Caranya cukup mudah dengan mengikuti torial berikut. ([How to add new issue to github](https://help.github.com/articles/creating-an-issue/))
+Caranya cukup mudah dengan mengikuti langkah berikut. ([How to add new issue to github](https://help.github.com/articles/creating-an-issue/))
 
 # Beberapa aturan sebelum membuat issue baru!
 
 ### Format untuk subject
-Format haruslah jelas agar mudah di pahami pembaca.
+Format haruslah jelas agar mudah di pahami pembaca. 
+Contohnya: 
+```Object melayang tepat di depan pintu City Hall.```
 
 ### Format untuk form
 
-Kamu dapat mengikuti format berikut untuk melaporkan bug
+* Berikut format untuk melaporkan bug.
 ```
 Nama lengkap:
 Kronologi bug: (Jelaskan bgaimana bug bisa terjadi step by step nya.)
@@ -24,7 +26,7 @@ Keterangan bug: (jelaskan secara detail bug yang kamu jumpai.)
 Media/Video pendukung: (Tujukkan media/video yang dapat menjelaskan kalau memang bug itu ada)
 ```
 
-Kamu dapat mengikuti format berikut untuk permintaan.
+* Berikut format untuk permintaan.
 ```
 Nama lengkap:
 Jenis permintaan: Kendaraan/Rumah/Bisnis/Lainnya (Harus di isi)
