@@ -36,3 +36,5 @@ Media/Video pendukung: (Jika ada)
 
 # Penutup
 Kami sangat senang jika teman-teman membantu dalam melakukan pekerjaan kami, dan kami juga akan sangat senang bila ada kritik dari teman-teman mengenai server ini. Terima kasih atas kontribusinya.
+
+---
