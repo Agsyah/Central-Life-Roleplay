@@ -41,6 +41,10 @@ Media/video pendukung : https://youtu.be/YFg8fJN3PZM
 Nama : Indra Kurniawan 4221801002
 Jenis permintaan : Bangunan
 Keterangan : mohon ditambahkan bangunan seperti indomaret, alfamart, hypermart, ramayana, carefour
+
+Nama : rarid
+Jenis permintaan : bugganti freon (kendaraaan)
+Media/video pendukung : https://youtu.be/YFg8fJN3TDY
 ```
 
 # Penutup
