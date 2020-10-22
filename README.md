@@ -45,6 +45,7 @@ Keterangan : mohon ditambahkan bangunan seperti indomaret, alfamart, hypermart, 
 Nama : pri
 Jenis permintaan : wife
 Keterangan : mohon ditambahkan istri biar tidak kesepian
+
 ```
 
 # Penutup
