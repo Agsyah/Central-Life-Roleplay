@@ -20,7 +20,7 @@ Contohnya:
 
 * Berikut format untuk melaporkan bug.
 ```
-Nama lengkap:
+Nama lengkap: (nama asli bukan inisial)
 Kronologi bug: (Jelaskan bgaimana bug bisa terjadi step by step nya.)
 Keterangan bug: (jelaskan secara detail bug yang kamu jumpai.)
 Media/Video pendukung: (Tujukkan media/video yang dapat menjelaskan kalau memang bug itu ada)
